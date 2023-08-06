@@ -6,6 +6,6 @@ In this GitHub repository, you will find all logos from the CryptoLogos.cc websi
 
 ## Disclaimer
 
-Please be aware that all logos are available for free download, but users are solely responsible for adhering to the official branding guidelines and logo usage instructions of individual cryptocurrency projects. The Crypto Logos repository and its maintainers shall not be held liable for any misuse or improper usage of the logos. For more details, see the [LICENSE](https://github.com/coinwink/crypto-logos-cc/blob/master/LICENSE).
+Please be aware that all logos are available for free download, but users are solely responsible for adhering to the official branding guidelines and logo usage instructions of individual cryptocurrency projects. The Crypto Logos repository and its maintainers shall not be held liable for any misuse or improper usage of the logos. For more details, see the [LICENSE](https://github.com/coinwink/crypto-logos-cc/blob/main/LICENSE.md).
 
 <img src="https://cryptologos.cc/img/crypto-logos-cc-website.png?v=003" width="640">
