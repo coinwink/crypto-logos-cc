@@ -2,7 +2,7 @@
 
 [CryptoLogos.cc](https://cryptologos.cc) is a curated collection of professionally prepared cryptocurrency logos that are free to download in high-quality PNG and vector SVG file formats.
 
-In this GitHub repository, you will find all logos from the CryptoLogos.cc website. You can download them all at once as a ZIP archive.
+In this GitHub repository, you will find all logos from the CryptoLogos.cc website. You can download them all at once as a [ZIP archive](https://github.com/coinwink/crypto-logos-cc/archive/refs/heads/main.zip).
 
 ## Disclaimer
 
