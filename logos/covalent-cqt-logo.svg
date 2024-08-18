@@ -1,1 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><g id="CIRCLE_OUTLINE_BLACK" data-name="CIRCLE OUTLINE BLACK"><circle cx="255.99998" cy="256" r="256" fill="#000625"/><circle cx="348.05329" cy="121.66839" r="42.58056" fill="#08d8d5"/><circle cx="348.05329" cy="390.31301" r="42.58056" fill="#ff4b8b"/><path d="M347.90234,256A91.90254,91.90254,0,0,0,256,164.09766V347.90234A91.90223,91.90223,0,0,0,347.90234,256Z" fill="#fff"/><path d="M164.09766,256A91.90254,91.90254,0,0,1,256,164.09766V81.25928a174.74072,174.74072,0,0,0,0,349.48144V347.90234A91.90223,91.90223,0,0,1,164.09766,256Z" fill="#fff"/></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:#181818;}
+	.st2{fill:#54FE6D;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="100" height="100"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st0">
+		<rect class="st1" width="100" height="100"/>
+		<path class="st2" d="M79.7,34.5L62.3,19.6c-1.3-1.1-2.9-1.6-4.5-1.6H24.9c-0.9,0-1.8,0.2-2.6,0.5c-0.8,0.3-1.6,0.8-2.2,1.4
+			c-0.6,0.6-1.1,1.4-1.5,2.2c-0.3,0.8-0.5,1.7-0.5,2.6v35.8c0,1,0.2,1.9,0.6,2.8c0.4,0.9,1,1.6,1.7,2.3l17.4,14.8
+			c1.3,1.1,2.9,1.7,4.5,1.7h32.9c1.8,0,3.6-0.7,4.9-2c1.3-1.3,2-3,2-4.7V39.5c0-1-0.2-1.9-0.6-2.8C81,35.9,80.4,35.1,79.7,34.5z
+			 M50,62.3c-2.5,0-4.9-0.7-7-2.1c-2.1-1.4-3.7-3.3-4.7-5.5c-1-2.2-1.2-4.7-0.7-7.1c0.5-2.4,1.7-4.6,3.5-6.3c1.8-1.7,4-2.9,6.5-3.4
+			c2.5-0.5,5-0.2,7.3,0.7c2.3,0.9,4.3,2.5,5.7,4.5c1.4,2,2.1,4.4,2.1,6.8c0,1.6-0.3,3.2-1,4.7c-0.6,1.5-1.6,2.8-2.7,4
+			c-1.2,1.1-2.6,2-4.1,2.7C53.3,62,51.7,62.3,50,62.3L50,62.3z"/>
+	</g>
+</g>
+</svg>
