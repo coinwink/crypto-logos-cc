@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" shape-rendering="crispEdges"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 13 13"
+	 style="enable-background:new 0 0 13 13;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#451834;}
+	.st1{fill:#A1472A;}
+	.st2{fill:#FFE84F;}
+	.st3{fill:#E39400;}
+</style>
+<g>
+	<path class="st0" d="M5,1c1.6,0,3.4,0,5,0V0C7.7,0,5.3,0,3,0v1C3.5,1,4.5,1,5,1z"/>
+	<rect x="2" y="1" class="st0" width="1" height="1"/>
+	<rect x="3" y="1" class="st1" width="1" height="1"/>
+	<path class="st2" d="M8,1C6.7,1,5.3,1,4,1v1c1.9,0,4.1,0,6,0V1C9.5,1,8.5,1,8,1z"/>
+	<rect x="10" y="1" class="st0" width="1" height="1"/>
+	<rect x="1" y="2" class="st0" width="1" height="1"/>
+	<rect x="2" y="2" class="st1" width="1" height="1"/>
+	<rect x="3" y="2" class="st2" width="1" height="1"/>
+	<rect x="9" y="2" class="st1" width="1" height="1"/>
+	<rect x="10" y="2" class="st2" width="1" height="1"/>
+	<rect x="11" y="2" class="st0" width="1" height="1"/>
+	<path class="st1" d="M10,4c0,1.9,0,4.1,0,6h1c0-2.3,0-4.7,0-7h-1V4z"/>
+	<path class="st0" d="M12,3c0,2.3,0,4.7,0,7h1c0-2.3,0-4.7,0-7H12z"/>
+	<path class="st1" d="M9,7c0-0.9,0-2.1,0-3C8.5,4,7.5,4,7,4v1H6V4C5.5,4,4.5,4,4,4c0,1.6,0,3.4,0,5h1c0-0.5,0-1.5,0-2h1v1h1V7h1
+		c0,0.5,0,1.5,0,2h1C9,8.5,9,7.5,9,7z"/>
+	<path class="st0" d="M1,8c0-1.6,0-3.4,0-5H0c0,2.3,0,4.7,0,7h1C1,9.5,1,8.5,1,8z"/>
+	<path class="st2" d="M3,8c0-1.6,0-3.4,0-5H2c0,2.3,0,4.7,0,7h1C3,9.5,3,8.5,3,8z"/>
+	<path class="st3" d="M10,8c0-1.6,0-3.4,0-5H9V2C7.4,2,5.6,2,4,2v1H3c0,2.3,0,4.7,0,7h1v1c1.6,0,3.4,0,5,0v-1h1C10,9.5,10,8.5,10,8z
+		 M8,9c0-0.5,0-1.5,0-2H7v1H6V7H5c0,0.5,0,1.5,0,2H4c0-1.6,0-3.4,0-5c0.5,0,1.5,0,2,0v1h1V4c0.5,0,1.5,0,2,0c0,1.6,0,3.4,0,5H8z"/>
+	<path class="st2" d="M12,8c0-1.6,0-3.4,0-5h-1c0,2.3,0,4.7,0,7h1C12,9.5,12,8.5,12,8z"/>
+	<path class="st1" d="M2,9c0-1.9,0-4.1,0-6H1c0,2.3,0,4.7,0,7h1V9z"/>
+	<rect x="1" y="10" class="st0" width="1" height="1"/>
+	<rect x="2" y="10" class="st1" width="1" height="1"/>
+	<rect x="3" y="10" class="st2" width="1" height="1"/>
+	<rect x="9" y="10" class="st1" width="1" height="1"/>
+	<rect x="10" y="10" class="st2" width="1" height="1"/>
+	<rect x="11" y="10" class="st0" width="1" height="1"/>
+	<rect x="2" y="11" class="st0" width="1" height="1"/>
+	<rect x="3" y="11" class="st1" width="1" height="1"/>
+	<path class="st2" d="M9,11c-1.6,0-3.4,0-5,0v1c1.9,0,4.1,0,6,0v-1H9z"/>
+	<rect x="10" y="11" class="st0" width="1" height="1"/>
+	<path class="st0" d="M8,12c-1.6,0-3.4,0-5,0v1c2.3,0,4.7,0,7,0v-1C9.5,12,8.5,12,8,12z"/>
+</g>
+</svg>

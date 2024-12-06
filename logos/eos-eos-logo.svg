@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.2 50"><title>Asset 1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path d="M16.6,0,4.9,16.1,0,39.9,16.6,50,33.2,39.9,28.2,16ZM2.7,38.8,6.4,20.7l8.4,25.5ZM7.6,16.6l9-12.4,9,12.4-9,27.2ZM18.3,46.2l8.4-25.5,3.7,18.1Z"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 41.6 48" style="enable-background:new 0 0 41.6 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FBA219;}
+	.st1{fill:#323232;}
+	.st2{fill:#F8691A;}
+</style>
+<path class="st0" d="M8.3,21.6v9.6l-4.2,2.4V19.2L8.3,21.6z"/>
+<path class="st0" d="M41.6,12v24l-4.2,2.4l0-19.2l-4.2,2.4v19.2L20.8,48V24l4.2-2.4v19.2l4.2-2.4V19.2L41.6,12z"/>
+<path class="st0" d="M12.5,9.6L8.3,12l4.2,2.4V9.6z"/>
+<path class="st0" d="M20.8,4.8l-4.2,2.4l4.2,2.4V4.8z"/>
+<path class="st1" d="M41.6,12l-4.2,2.4L20.8,4.8l-4.2,2.4v0l4.2,2.4l12.5,7.2l-4.2,2.4h0v0L12.5,9.6L8.3,12l16.6,9.6L20.8,24L0,12
+	L20.8,0h0L41.6,12z"/>
+<path class="st1" d="M16.6,36v4.8L4.2,33.6l4.2-2.4L16.6,36z"/>
+<path class="st1" d="M24.9,40.8l4.2-2.4L24.9,36V40.8z"/>
+<path class="st2" d="M0,12v24l20.8,12V24L0,12z M16.6,40.8L4.2,33.6V19.2l12.5,7.2V40.8z"/>
+<path class="st2" d="M37.4,38.4L33.3,36V21.6l4.2-2.4L37.4,38.4z"/>
+<path class="st2" d="M37.4,14.4l-4.2,2.4L20.8,9.6V4.8L37.4,14.4z"/>
+<path class="st2" d="M12.5,9.6v4.8l12.5,7.2V36l4.2,2.4V19.2L12.5,9.6z"/>
+</svg>
